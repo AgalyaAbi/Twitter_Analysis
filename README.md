@@ -55,5 +55,3 @@ The `Tweet.xlsx` file contains detailed metrics on tweet performance, useful for
 - Excel: Quick sorting, filtering, and formula-based summaries
 - BI Tools: Power BI, Tableau for building interactive visual dashboards
 
-
-Let me know if you'd like this summary turned into a slide deck, PDF, or part of a project documentation file!
