@@ -1,0 +1,23 @@
+
+
+ Metadata for Tweet.xlsx
+
+| Field                | Description                                                                 |
+|----------------------|-----------------------------------------------------------------------------|
+| File Name            | Tweet.xlsx                                                                  |
+| Sheet Name           | SocialMedia (1)                                                             |
+| Data Source          | Internal collection of tweet analytics (platform-generated)                 |
+| Data Type            | Structured tabular data (Excel format)                                      |
+| Number of Records    | Varies (each row = 1 tweet)                                                 |
+| Number of Columns    | 21                                                                          |
+| Primary Identifier   | `id` (Unique tweet ID)                                                      |
+| Timestamp Field      | `time` (Date and time when tweet was posted)                                |
+| Target Metrics       | `engagement rate`, `impressions`, `engagements`, `likes`, `retweets`        |
+| Additional Metrics   | `user profile clicks`, `hashtag clicks`, `media views`, `app installs`, etc.|
+| Date Format          | UTC timezone string (e.g., `2020-06-30 21:09 +0000`)                        |
+| File Size            | Depends on number of records (lightweight for typical use)                  |
+| Encoding             | UTF-8 (default Excel encoding assumed)                                      |
+| Data Sensitivity     | Non-sensitive (no personal user information included)                       |
+| Usage License        | Internal use or open for educational and analytical purposes                |
+| Last Updated         | a tw0 days ago                                                              |
+
